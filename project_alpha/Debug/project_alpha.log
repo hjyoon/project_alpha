@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\hj\documents\github\project_alpha\project_alpha\main.c(10): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\hj\documents\github\project_alpha\project_alpha\main.c(10): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  project_alpha.vcxproj -> C:\Users\hj\Documents\GitHub\project_alpha\project_alpha\Debug\project_alpha.exe
