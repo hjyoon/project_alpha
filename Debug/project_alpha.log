@@ -1,4 +1,4 @@
 ﻿  main.c
-c:\users\dy\documents\github\project_alpha\main.c(11): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
-c:\users\dy\documents\github\project_alpha\main.c(11): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
-  project_alpha.vcxproj -> C:\Users\Dy\Documents\GitHub\project_alpha\Debug\project_alpha.exe
+c:\users\hj\documents\github\project_alpha\main.c(11): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\hj\documents\github\project_alpha\main.c(11): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  project_alpha.vcxproj -> C:\Users\hj\Documents\GitHub\project_alpha\Debug\project_alpha.exe
